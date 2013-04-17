@@ -4,7 +4,8 @@
 //
 //  Created by Michael Davidovich on 3/31/13.
 //  Copyright (c) 2013 Michael Davidovich. All rights reserved.
-//
+//  Project has been commited to git
+
 
 #import "CardMatchingGame.h"
 
